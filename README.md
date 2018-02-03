@@ -121,7 +121,8 @@
 
  - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 
-## Books
+## books
+ - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍
 
  - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
 
